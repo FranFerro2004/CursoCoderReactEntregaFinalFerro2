@@ -1,0 +1,32 @@
+.nav-menu-container {
+    background-color: #333;
+    color: white;
+    border-bottom: 1px solid black; 
+}
+
+.nav-menu-link {
+    color: rgb(15, 15, 15);
+    text-decoration: none;
+    padding: 10px;
+}
+
+
+.menu-button {
+    background-color: #333;
+    border: 1px solid black;
+    color: white;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.menu-item {
+    padding: 10px;
+    cursor: pointer;
+    background-color: #333; 
+}
+
+
+
+
+
+
